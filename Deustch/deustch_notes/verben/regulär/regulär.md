@@ -1,10 +1,10 @@
-#Regulär Verben
+# Regulär Verben
 
 
-##Connections
+## Connections
 -[[verben]]
 
-###Endungen
+### Endungen
 
 |   |kommen|arbei**t**|
 |---|---|---|

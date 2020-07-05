@@ -1,3 +1,5 @@
+# Entry Points
+
 There are several reserved function names that serve as entry points to the channel.
 
 ### Sub RunUserInterface()

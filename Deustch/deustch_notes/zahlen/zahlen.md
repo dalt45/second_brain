@@ -1,10 +1,10 @@
-#Fragen
+# Fragen
 
 
-##Connections
+## Connections
 
 
-###Die Zahlen
+### Die Zahlen
 
 |   |   |
 |---|---|

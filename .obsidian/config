@@ -24,8 +24,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Development/Roku/Content Metadata/CDN switching attributes.md",
-            "mode": "preview"
+            "file": "Development/Frontend Roadmap/Internet/Modern Broserws and How they Work.md",
+            "mode": "source"
           }
         }
       }
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,18 +87,19 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "Development/Roku/Content Metadata/CDN switching attributes.md",
+    "Development/Frontend Roadmap/Internet/Modern Broserws and How they Work.md",
     "Deustch/deustch_notes/fragen/fragen.md",
-    "Development/Roku/Content Metadata/Content metadata.md",
-    "Personal/Daily Notes/2020-07-05.md",
-    "Untitled.md"
-  ]
+    "Deustch/deustch_notes/verben/verben.md",
+    "Deustch/deustch_notes/verben/regulär/regulär.md",
+    "Deustch/deustch_notes/verben/irregulär/irregulär.md"
+  ],
+  "alwaysUpdateLinks": true
 }

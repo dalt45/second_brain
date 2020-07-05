@@ -1,4 +1,4 @@
-#What is a modern browser
+# What is a modern browser
 
 According to : [Microsoft](https://docs.microsoft.com/en-us/archive/blogs/tims/a-modern-browser)
 

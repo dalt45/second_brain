@@ -1,10 +1,10 @@
-#Irregulär Verben
+# Irregulär Verben
 
 
-##Connections
+## Connections
 -[[verben]]
 
-###Sein
+### Sein
 
 |   |   |
 |---|---|

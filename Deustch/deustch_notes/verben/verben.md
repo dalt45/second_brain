@@ -1,6 +1,6 @@
-#Verben
+# Verben
 
-##Conections
+## Conections
 -[[regulär]]
 -[[irregulär]]
 

@@ -1,4 +1,4 @@
-# Architectural Overview
+# [[Architectural Overview]]
 
 ![[Pasted image.png]]
 

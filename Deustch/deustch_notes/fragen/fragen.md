@@ -1,10 +1,10 @@
-#Fragen
+# Fragen
 
 
-##Connections
+## Connections
 -[[fragen]]
 
-###Fragesätze mit wie, woher, wo, was
+### Fragesätze mit wie, woher, wo, was
 
 |   |   |
 |---|---|
