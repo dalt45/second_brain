@@ -1,0 +1,93 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "workspaceLayout": {
+    "id": "9dca8c18b560c941",
+    "type": "split",
+    "children": [
+      {
+        "id": "80544be202b71e25",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Internet/HTTP.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "521a93f2f1537a7b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f40370cea632f1a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c3de1836947c804",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0dfbe9aa666a1fc4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "7fa00ecf2c2422e7",
+    "type": "split",
+    "children": [
+      {
+        "id": "aff489ca41448fb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c76378b97ebfe93d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Internet/HTTP.md",
+    "Internet/Internet.md",
+    "Internet/DNS.md",
+    "Internet/Internet Protocols.md",
+    "Web Browsers.md"
+  ],
+  "promptDelete": false
+}

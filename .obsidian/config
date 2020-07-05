@@ -1,0 +1,103 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Tag pane": true,
+    "Page preview": true,
+    "Daily notes": true
+  },
+  "workspaceLayout": {
+    "id": "6935a078dc05c33a",
+    "type": "split",
+    "children": [
+      {
+        "id": "418c058cec9e1baa",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Development/Roku/Content Metadata/CDN switching attributes.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "9bab6d8c0d45e8a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "d624dba2786c5951",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ec39d3a0bc8e27",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "72d602b936ffb145",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "0f4b999b8a6d90f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "03b1e999534512f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebe9411d3717d3c2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a9e9e3ad4a312d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Development/Roku/Content Metadata/CDN switching attributes.md",
+    "Deustch/deustch_notes/fragen/fragen.md",
+    "Development/Roku/Content Metadata/Content metadata.md",
+    "Personal/Daily Notes/2020-07-05.md",
+    "Untitled.md"
+  ]
+}

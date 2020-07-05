@@ -1,0 +1,46 @@
+# Manifest file
+
+The root level of all Roku channels must contain a manifest file (pkg:/manifest) containing important attributes for the application. These attributes include but are not limited to the following:
+
+- Name and version number of the application
+- Channel icon
+- Splash screen image
+
+## Guidelines
+
+- Each attribute is on a separate line, and has the form name=value
+- Each name=value pair must end with a newline character, or it may not be parsed by the Roku OS
+- The last line must end with a newline character
+- Empty lines are ignored
+- Lines beginning with a '#' (number sign) are comment lines and are ignored
+- All graphics files specified in the manifest file should be included in the images directory
+- The [[URI]] to set the path to the files should use the pkg: resource prefix, such as pkg:/images/splash-screen.png
+
+## Example
+
+	# Channel Details
+	title=HeroGridChannel
+	subtitle=Roku Sample Channel App
+	major_version=1
+	minor_version=1
+	build_version=1
+	# Channel Assets
+	mm_icon_focus_hd=pkg:/images/channel-poster_hd.png
+	mm_icon_focus_sd=pkg:/images/channel-poster_sd.png
+
+	# Splash Screen + Loading Screen Artwork
+	splash_screen_sd=pkg:/images/splash-screen_sd.jpg
+	splash_screen_hd=pkg:/images/splash-screen_hd.jpg
+	splash_screen_fhd=pkg:/images/splash-screen_fhd.jpg
+	splash_color=#808080
+	splash_min_time=0
+	# Resolution
+	ui_resolutions=fhd
+
+	confirm_partner_button=1
+	
+	
+## Attributes
+-  [[Required attributtes]]
+-  [[Optional attributes]]
+

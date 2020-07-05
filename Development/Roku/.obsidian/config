@@ -1,0 +1,101 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Tag pane": true
+  },
+  "workspaceLayout": {
+    "id": "a3d5cf0ba9264550",
+    "type": "split",
+    "children": [
+      {
+        "id": "dacc050c8639d5e9",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Content Metadata/CDN switching attributes.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "leftSidedock": {
+    "id": "04d757584bb0d47e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0c75353717a3a9ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "de9c4072613c3403",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "e8536ea06bc672b5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "24fbf8563b4a0c39",
+    "type": "split",
+    "children": [
+      {
+        "id": "5761cad8291dfe92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3a58cdc8adabc46b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          },
+          {
+            "id": "120efce11cd64cd6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "lastOpenFiles": [
+    "Content Metadata/CDN switching attributes.md",
+    "SceneGraph/Node field observers.md",
+    "ifSGNodeField.md",
+    "SceneGraph/SceneGraph.md",
+    "SceneGraph/SceneGraph coordinate Systems.md"
+  ],
+  "alwaysUpdateLinks": true
+}

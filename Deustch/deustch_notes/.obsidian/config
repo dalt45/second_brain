@@ -1,0 +1,95 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "95313085943cc76e",
+    "type": "split",
+    "children": [
+      {
+        "id": "92eddbaf20311215",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "verben/verben.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "lastOpenFiles": [
+    "verben/verben.md",
+    "verben/irregulär/irregulär.md",
+    "fragen/fragen.md",
+    "verben/regulär/regulär.md",
+    "zahlen/zahlen.md"
+  ],
+  "leftSidedock": {
+    "id": "90cefa023e2018e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "04dc6e4062003aed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "716f5dda45d45f15",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "255989f31251e470",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "rightSidedock": {
+    "id": "19ddf3abac063ee3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6099c439c47de2a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99bab1bcee035591",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  }
+}
